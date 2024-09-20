@@ -1,4 +1,5 @@
 # How to use
-1) Drag .js file example ``coachcredits.js`` to your bookmark bar.
-2) Run the first game save on retrobowl and click the bookmark.
-3) (NOTE) These cheat will only work on ur first save of retrobowl
+1) Open or download ``blookmarklet.html``
+2) Click the cheat button and drag it to your bookmark bar
+3) Run bookmark
+4) (NOTE) These cheat will only work on ur first save of retrobowl
