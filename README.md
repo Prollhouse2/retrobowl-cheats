@@ -5,7 +5,7 @@
 4) Done!
 5) (NOTE) These cheat will only work on ur first save of retrobowl
 
-# Premaded Link
+# Premade Link
 If you cant download the file use the already made verison
 
 https://rawcdn.githack.com/Prollhouse2/retrobowl-cheats/cb862590535debab1ff248da2dea39370c1e7aac/index.html
